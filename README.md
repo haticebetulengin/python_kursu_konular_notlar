@@ -1,0 +1,1 @@
+# python_kursu_konular_notlar
